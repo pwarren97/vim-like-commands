@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vim-like-commands",
+        "command": "vim-like-commands:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vim-like-commands",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vim-like-commands:toggle"
+            },
+            {
+              "label": "Move Down",
+              "command": "vim-like-commands:move-down"
+            },
+            {
+              "label": "Move Up",
+              "command": "vim-like-commands:move-down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
