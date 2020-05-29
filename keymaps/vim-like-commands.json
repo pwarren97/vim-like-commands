@@ -1,7 +1,9 @@
 {
   "atom-workspace": {
     "ctrl-alt-o": "vim-like-commands:toggle",
+    "alt-h": "vim-like-commands:move-left",
     "alt-j": "vim-like-commands:move-down",
-    "alt-k": "vim-like-commands:move-up"
+    "alt-k": "vim-like-commands:move-up",
+    "alt-l": "vim-like-commands:move-right"
   }
 }

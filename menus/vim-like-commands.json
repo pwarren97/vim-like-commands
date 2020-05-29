@@ -19,12 +19,20 @@
               "command": "vim-like-commands:toggle"
             },
             {
+              "label": "Move Left",
+              "command": "vim-like-commands:move-left"
+            },
+            {
               "label": "Move Down",
               "command": "vim-like-commands:move-down"
             },
             {
               "label": "Move Up",
               "command": "vim-like-commands:move-down"
+            },
+            {
+              "label": "Move Right",
+              "command": "vim-like-commands:move-right"
             }
           ]
         }
