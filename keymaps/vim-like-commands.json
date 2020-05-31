@@ -4,6 +4,11 @@
     "alt-h": "vim-like-commands:move-left",
     "alt-j": "vim-like-commands:move-down",
     "alt-k": "vim-like-commands:move-up",
-    "alt-l": "vim-like-commands:move-right"
+    "alt-l": "vim-like-commands:move-right",
+
+    "shift-alt-h": "vim-like-commands:select-left",
+    "shift-alt-j": "vim-like-commands:select-down",
+    "shift-alt-k": "vim-like-commands:select-up",
+    "shift-alt-l": "vim-like-commands:select-right"
   }
 }
