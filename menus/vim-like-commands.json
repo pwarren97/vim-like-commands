@@ -33,6 +33,10 @@
             {
               "label": "Move Right",
               "command": "vim-like-commands:move-right"
+            },
+            {
+              "label": "Move To End Of Line",
+              "command": "vim-like-commands:move-to-end-of-line"
             }
           ]
         }

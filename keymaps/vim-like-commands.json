@@ -9,6 +9,9 @@
     "shift-alt-h": "vim-like-commands:select-left",
     "shift-alt-j": "vim-like-commands:select-down",
     "shift-alt-k": "vim-like-commands:select-up",
-    "shift-alt-l": "vim-like-commands:select-right"
+    "shift-alt-l": "vim-like-commands:select-right",
+
+    "shift-alt-4": "vim-like-commands:move-to-end-of-line",
+    "shift-alt-g": "vim-like-commands:move-to-bottom"
   }
 }
